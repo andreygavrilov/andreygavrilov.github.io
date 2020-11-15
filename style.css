@@ -1,5 +1,10 @@
 /* CSS Document */
 
+@font-face {
+	font-family: "25f81841ac697852 - subset of Woodkit Print Pro Alphabet B"; 
+	src: url("https://db.onlinewebfonts.com/t/7a6b4a8c00ffdc1bc9fe28e6a3698bde.eot"); 
+	src: url("https://db.onlinewebfonts.com/t/7a6b4a8c00ffdc1bc9fe28e6a3698bde.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/7a6b4a8c00ffdc1bc9fe28e6a3698bde.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/7a6b4a8c00ffdc1bc9fe28e6a3698bde.woff") format("woff"), url("//db.onlinewebfonts.com/t/7a6b4a8c00ffdc1bc9fe28e6a3698bde.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/7a6b4a8c00ffdc1bc9fe28e6a3698bde.svg#25f81841ac697852 - subset of Woodkit Print Pro Alphabet B") format("svg"); }
+
 body {
     
 margin: 0px;
@@ -128,7 +133,7 @@ p {
 	grid-template-columns: 100px 100px 100px 100px;
 	grid-template-rows: 100px;
 	grid-gap: 1px;
-	font-family: "f1fd725ea8c18689 - subset of Woodkit Solid Pro Alphabet B";
+	font-family: "25f81841ac697852 - subset of Woodkit Print Pro Alphabet B";
 }
 
 .mainmenu {
@@ -136,12 +141,12 @@ p {
 	grid-template-columns: 100px 100px 100px 100px;
 	grid-template-rows: 100px 100px 100px 100px;
 	grid-gap: 1px;
-	font-family: "f1fd725ea8c18689 - subset of Woodkit Solid Pro Alphabet B";
+	font-family: "25f81841ac697852 - subset of Woodkit Print Pro Alphabet B";
     color: gray;
 }
 
 .more {
-    font-family: "f1fd725ea8c18689 - subset of Woodkit Solid Pro Alphabet B";
+    font-family: "25f81841ac697852 - subset of Woodkit Print Pro Alphabet B";
     color: gray;
     padding: 20px;
     
